@@ -1,4 +1,4 @@
-# Lab 3: Architecture Design and API Planning
+# Lab 2: Architecture Design and API Planning
 
 ### Objective
 

@@ -1,4 +1,4 @@
-# **Lab 2: Introduction & Requirement Analysis**
+# **Lab 1: Introduction & Requirement Analysis**
 
 ## **Objective**
 In this lab, students will learn how to analyze project requirements, define the scope, and document user stories. They will also create a basic flowchart using Mermaid.js to visualize system interactions.
