@@ -39,21 +39,21 @@ Each lab covers a critical aspect of software development, ensuring students gai
 
 ## **Laboratory Breakdown**
 
-### **Lab 1: Introduction & Requirement Analysis** ([Lab2_Introduction_Requirement_Analysis.md](Lab2_Introduction_Requirement_Analysis.md))
+### **Lab 2: Introduction & Requirement Analysis** ([Lab2_Introduction_Requirement_Analysis.md](Lab2_Introduction_Requirement_Analysis.md))
 - Understanding software development methodologies (Agile vs. Waterfall)
 - Defining project requirements and writing user stories
 - Creating system flowcharts using **Mermaid.js**
 
 ---
 
-### **Lab 2: Architecture Design and API Planning** ([Lab3_Architecture_Design_API_Planning.md](Lab3_Architecture_Design_API_Planning.md))
+### **Lab 3: Architecture Design and API Planning** ([Lab3_Architecture_Design_API_Planning.md](Lab3_Architecture_Design_API_Planning.md))
 - Designing the system architecture
 - Creating **Use Case, Class, and System Diagrams**
 - Planning and documenting REST API endpoints with **Swagger (OpenAPI)**
 
 ---
 
-### **Lab 3: Backend Development with Spring Boot Microservices** ([Lab4_Backend_Development_Spring_Boot.md](Lab4_Backend_Development_Spring_Boot.md))
+### **Lab 4: Backend Development with Spring Boot Microservices** ([Lab4_Backend_Development_Spring_Boot.md](Lab4_Backend_Development_Spring_Boot.md))
 - Setting up **Spring Boot microservices**
 - Implementing **PostgreSQL database integration**
 - Implementing **Firebase Authentication**
@@ -61,7 +61,7 @@ Each lab covers a critical aspect of software development, ensuring students gai
 
 ---
 
-### **Lab 4: Frontend Development with Flutter** ([Lab5_Frontend_Development_Flutter.md](Lab5_Frontend_Development_Flutter.md))
+### **Lab 5: Frontend Development with Flutter** ([Lab5_Frontend_Development_Flutter.md](Lab5_Frontend_Development_Flutter.md))
 - Setting up a Flutter project with **Bloc (Cubit)** for state management
 - Implementing **Firebase Authentication**
 - Integrating REST APIs using **Dio**
@@ -69,7 +69,7 @@ Each lab covers a critical aspect of software development, ensuring students gai
 
 ---
 
-### **Lab 5: Testing, Deployment, and CI/CD** ([Lab6_Testing_Deployment_CICD.md](Lab6_Testing_Deployment_CICD.md))
+### **Lab 6: Testing, Deployment, and CI/CD** ([Lab6_Testing_Deployment_CICD.md](Lab6_Testing_Deployment_CICD.md))
 - Writing **JUnit tests for backend services**
 - Writing **widget tests for Flutter UI**
 - Setting up **GitHub Actions for automated deployment**
