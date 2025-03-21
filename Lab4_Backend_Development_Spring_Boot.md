@@ -87,9 +87,3 @@ public class FirebaseAuthService {
 ## **5. Testing the API**
 - Use **Postman** or **Swagger UI** for testing endpoints.
 - Ensure proper responses for authentication and CRUD operations.
-
----
-
-## **Deliverables**
-1. **Implemented REST API for tasks.**
-2. **Firebase authentication mechanism.**
