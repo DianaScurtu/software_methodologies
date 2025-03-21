@@ -49,7 +49,6 @@ public class Task {
 ## **3. Implementing REST APIs**
 - Create **Repository** and **Service** layers.
 - Implement **Controller** with CRUD operations.
-- Use **Spring Cloud OpenFeign** for microservices communication.
 
 ### **Example: Task Controller**
 ```java
