@@ -7,7 +7,7 @@ Students will implement a backend system using **Spring Boot Microservices**, fo
 
 ## **1. Setting Up the Backend**
 - Initialize **Spring Boot Microservices** for **UserService** and **TaskService**.
-- Add dependencies: `Spring Web`, `Spring Data JPA`, `PostgreSQL Driver`, `Spring Security`, `Firebase Admin SDK`, and `OpenFeign`.
+- Add dependencies: `Spring Web`, `Spring Data JPA`, `PostgreSQL Driver`, `Spring Security`, and `Firebase Admin SDK`.
 - Configure `application.properties` for PostgreSQL connection.
 
 ---
