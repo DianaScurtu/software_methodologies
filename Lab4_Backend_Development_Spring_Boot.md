@@ -93,4 +93,3 @@ public class FirebaseAuthService {
 ## **Deliverables**
 1. **Implemented REST API for tasks.**
 2. **Firebase authentication mechanism.**
-3. **Postman collection for API testing.**
