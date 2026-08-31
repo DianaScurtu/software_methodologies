@@ -97,7 +97,7 @@ jobs:
 
 By implementing this workflow, your application is automatically deployed to Railway whenever new changes are pushed to `main`, eliminating the need for manual deployments.
 
-*Reference: [Using the Railway CLI](https://docs.railway.app/develop/cli)*
+*Reference: [Using Railway & GitHub Actions](https://docs.railway.com/tutorials/github-post-deploy-actions)*
 
 ---
 
